@@ -4,10 +4,12 @@ A Repo Directory Containing an Anima Character Creation
 Made by: scoop263
 
 Contact:
+
 	Discord: scoop263#2890
 	Reddit: u/scoop263
 	Email: scoop263@yahoo.com
 		(I dont use this much, Discord or Reddit is best way to get answer within the next 12 hours.)
+
 
 Why did I make this?
 

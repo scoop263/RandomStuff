@@ -478,7 +478,9 @@ function fileConstruction(){
                    Set-Variable -Name $vars -Value "--" 
                 }
             }
-            
+            if($CLASSBONUS -gt 50 -and ($i -in 7..9)){
+                $CLASSBONUS = 50
+            }
             $BASE = [string]$BASE
             $CHARBONUS = [string]$CHARBONUS
             $CLASSBONUS = [string]$CLASSBONUS

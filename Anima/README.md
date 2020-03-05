@@ -101,7 +101,7 @@ In this portion I will answer general questions one might have.
 		When making the first revisions I concluded that it would be to difficult.
 	
 	You say that Freelancer is too difficult, why?
-		I have to randomly select it's bonus's why every other class has a specific set of bonus's
+		I have to randomly select it's bonus's when every other class has a specific set of bonus's
 		Currently how the script works, It just wont work.
 
 	I want my Freelancer.
